@@ -1,0 +1,12 @@
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+C:\Users\msbuk\Github\DIDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb

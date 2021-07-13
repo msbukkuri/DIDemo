@@ -7,7 +7,7 @@ namespace DIDemo
     {
         static void Main(string[] args)
         {
-            Person owner = new Person
+            IPerson owner = new Person
             {
                 FirstName = "Maanas",
                 LastName = "Bukkuri",

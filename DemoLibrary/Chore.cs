@@ -28,7 +28,7 @@ namespace DemoLibrary
         {
             IsComplete = true;
             _logger.Log($"Completed { ChoreName }");
-            _messageSender.SendMessage(Owner, $"The chore { ChoreName } is complete.");
+            _messageSender.SendMessage(Owner, $"The chore '{ ChoreName }' is complete.");
         }
     }
 }

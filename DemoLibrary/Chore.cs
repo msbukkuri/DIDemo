@@ -2,7 +2,7 @@
 
 namespace DemoLibrary
 {
-    public class Chore
+    public class Chore : IChore
     {
         public string ChoreName { get; set; }
         public IPerson Owner { get; set; }
@@ -24,7 +24,7 @@ namespace DemoLibrary
             log.Log($"Completed { ChoreName }");
 
             Emailer emailer = new Emailer();
-            emailer.SendEmail(Owner, $"The chore { ChoreName } is complete.");
+            emailer.SendMessage(Owner, $"The chore { ChoreName } is complete.");
         }
     }
 }
